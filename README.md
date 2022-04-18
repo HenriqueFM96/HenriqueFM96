@@ -11,16 +11,16 @@ This is my personal profile 😜
 
 Knowledge on:
 <div>
-  <a href="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <a href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
+  <a href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> 
+  <a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
+  <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 </div>
 
 ##
     
 <div align="center">
-  <a href="https://github.com/HenriqueFM96">
+  <a href="https://github.com/HenriqueFM96"></a> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFM96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
